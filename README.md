@@ -15,3 +15,8 @@ belajar dirumah conii ihihi sambil nonton film horror
 **14 Februari 2025 (Progres 42%)** <br>
 belajar dirumah veraaaa
 * Belajar Dasar Git dengan GitHub
+
+**16 Februari 2025 (Progres 100%)**<br>
+belajar dirumah dengan tenang
+* Belajar git branch, colaboration, dan portofolio
+* Baca Pre-Read Materials - Personal Productivity: How to Boost Your Output
